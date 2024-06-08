@@ -1,0 +1,3 @@
+/Users/daniil_stankevich/CLionProjects/asmmm/cmake-build-debug/CMakeFiles/asmmm.dir
+/Users/daniil_stankevich/CLionProjects/asmmm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/daniil_stankevich/CLionProjects/asmmm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

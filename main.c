@@ -21,6 +21,7 @@ void fun(int* arr1, int* arr2, int n){
 int main() {
     int arr1[2] = {1, 2};
     int arr2[2];
+    int n;
     fun(arr1, arr2, 2);
     return 0;
 }
